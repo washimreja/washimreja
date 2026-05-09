@@ -19,7 +19,7 @@ Here are some of my recent public projects:
 ## 📫 Get in Touch
 
 -   **GitHub:** [washimreja](https://github.com/washimreja)
--   **LinkedIn:** (Please provide your LinkedIn profile URL if you'd like to include it)
--   **Email:** (Please provide your email address if you'd like to include it)
+-   **LinkedIn:** [Washim Reja](https://www.linkedin.com/in/washim-reja-376832339)
+-   **Email:** [washimreja19120@gmail.com](mailto:washimreja19120@gmail.com)
 
 I'm always open to collaborating on interesting projects and connecting with fellow developers!
