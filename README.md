@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Washim Reja 👋
 
-<!--
-**washimreja/washimreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-stack Developer with a keen interest in building engaging and efficient web applications. My journey in development is driven by a desire to create impactful solutions and continuously learn new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **Skills:** JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, MySQL, HTML, CSS, TailwindCSS
+-   **Learning:** Currently diving deeper into cloud technologies and advanced backend architectures.
+-   **Interests:** Exploring new web technologies, open-source contributions, and solving complex problems.
+
+## 💡 My Projects
+
+Here are some of my recent public projects:
+
+-   **washim-portfolio-v3:** My latest personal portfolio website, built with TypeScript and React.
+-   **NEXON_LAB:** A JavaScript-based project showcasing various web development concepts.
+-   **Eid_Mubarak_Wish:** A simple HTML-based project for sending Eid greetings.
+
+## 📫 Get in Touch
+
+-   **GitHub:** [washimreja](https://github.com/washimreja)
+-   **LinkedIn:** (Please provide your LinkedIn profile URL if you'd like to include it)
+-   **Email:** (Please provide your email address if you'd like to include it)
+
+I'm always open to collaborating on interesting projects and connecting with fellow developers!
