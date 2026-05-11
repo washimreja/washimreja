@@ -14,7 +14,7 @@ Here are some of my recent public projects:
 
 -   **washim-portfolio-v3:** My latest personal portfolio website, built with TypeScript and React.
 -   **NEXON_LAB:** A JavaScript-based project showcasing various web development concepts.
--   **Eid_Mubarak_Wish:** A simple HTML-based project for sending Eid greetings.
+-   **Nexon_Flow:** An AI images and videos editing website, a clone of the ImagineArt website.
 
 ## 📫 Get in Touch
 
